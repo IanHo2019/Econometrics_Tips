@@ -7,4 +7,4 @@ No matter whether or not Econometrics is worth learning, I sincerely thank Profe
 
 | Topic | Note | Coding Example | Update Date |
 | --- | :---: | :---: | :---: |
-| Coefficient Interpretation after Log Transformation | [PDF](./PDFs/Interpreting_Coefficients.pdf) | [Stata](./Coding/Interpreting_Coefficients.do) | 06/28/2023 |
+| Coefficient Interpretation after Log Transformation | [PDF](./PDFs/Interpreting_Coefficients.pdf) | [Stata](./Coding/Interpreting_Coefficients.do)/[Python](./Coding/Interpreting_Coefficients.ipynb) | 07/12/2023 |
