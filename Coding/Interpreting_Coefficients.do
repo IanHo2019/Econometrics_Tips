@@ -2,6 +2,7 @@
 * Example source: https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-regression-model-when-some-variables-are-log-transformed/
 * Code Author: Ian He
 * Date: Jun 28, 2023
+* Stata Version: 18
 
 clear all
 
