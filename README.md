@@ -7,4 +7,5 @@ No matter whether or not Econometrics is worth learning, I sincerely thank Profe
 
 | Topic | Note | Coding Example | Update Date |
 | --- | :---: | :---: | :---: |
+| Characterizing a Distribution by PMF, PDF, CDF, or Quantile | [PDF](./PDFs/Characterizing_Distribution.pdf) | | 07/23/2023 |
 | Coefficient Interpretation after Log Transformation | [PDF](./PDFs/Interpreting_Coefficients.pdf) | [Stata](./Coding/Interpreting_Coefficients.do) / [R](./Coding/Interpreting_Coefficients.R) / [Python](./Coding/Interpreting_Coefficients.ipynb) | 07/12/2023 |
