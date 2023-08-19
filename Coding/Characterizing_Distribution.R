@@ -5,7 +5,7 @@
 
 
 
-# Packages and Working Directory -----------------------------------------------
+# Packages ---------------------------------------------------------------------
 library(tidyverse) # for data wrangling
 library(tidyr)     # for reshaping the dataframe
 library(ggplot2)   # for plotting
