@@ -10,4 +10,4 @@ No matter whether or not Econometrics is worth learning, I sincerely thank Profe
 | Characterizing a Distribution by PMF, PDF, CDF, or Quantile | [PDF](./PDFs/Characterizing_Distribution.pdf) | [Stata](./Coding/Characterizing_Distribution.do) / [R](./Coding/Characterizing_Distribution.R) / [Python](./Coding/Characterizing_Distribution.ipynb) | 07/24/2023 |
 | Moments of a Distribution: Definitions \& Calculations | [PDF](./PDFs/Moments_of_a_Distribution.pdf) | [Stata](./Coding/Moments.do) / [R](./Coding/Moments.R) / [Python](./Coding/Moments.ipynb) | 08/25/2023 |
 | Coefficient Interpretation after Log Transformation | [PDF](./PDFs/Interpreting_Coefficients.pdf) | [Stata](./Coding/Interpreting_Coefficients.do) / [R](./Coding/Interpreting_Coefficients.R) / [Python](./Coding/Interpreting_Coefficients.ipynb) | 08/22/2023 |
-| Frisch-Waugh-Lovell Theorem | [PDF](./PDFs/FWL_Theorem.pdf) |  | 09/09/2023 |
+| Frisch-Waugh-Lovell Theorem | [PDF](./PDFs/FWL_Theorem.pdf) | [Stata](./Coding/FWL_Theorem.do) | 09/10/2023 |
