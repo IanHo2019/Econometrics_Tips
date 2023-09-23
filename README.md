@@ -3,6 +3,8 @@ I first studied Econometrics in the fall of 2020 at [UW-Madison](https://econ.wi
 
 No matter whether or not Econometrics is worth learning, I sincerely thank Professor [Xiaoxia Shi](https://users.ssc.wisc.edu/~xshi/) and Professor [Jack Porter](https://users.ssc.wisc.edu/~jrporter/) (who built up my initial understanding of Econometrics) as well as Professor [Le Wang](https://www.lewangecon.com/) (who refreshed my understanding of probability distribution).
 
+**Note:** Due to a possible GitHub bug (discussed [here](https://github.com/orgs/community/discussions/60984) and [there](https://github.com/orgs/community/discussions/60861)), the following internal links may not work in the surfaced version of readme.md file, but they work well after you explicitly enter the readme.md file by clicking it in the repository.
+
 ---
 
 | Topic | Note | Coding Example | Date Modified |
@@ -11,4 +13,4 @@ No matter whether or not Econometrics is worth learning, I sincerely thank Profe
 | Moments of a Distribution: Definitions \& Calculations | [PDF](./PDFs/Moments_of_a_Distribution.pdf) | [Stata](./Coding/Moments.do) / [R](./Coding/Moments.R) / [Python](./Coding/Moments.ipynb) | 08/25/2023 |
 | Coefficient Interpretation after Log Transformation | [PDF](./PDFs/Interpreting_Coefficients.pdf) | [Stata](./Coding/Interpreting_Coefficients.do) / [R](./Coding/Interpreting_Coefficients.R) / [Python](./Coding/Interpreting_Coefficients.ipynb) | 08/22/2023 |
 | Frisch-Waugh-Lovell Theorem | [PDF](./PDFs/FWL_Theorem.pdf) | [Stata](./Coding/FWL_Theorem.do) / [R](./Coding/FWL_Theorem.R) / [Python](./Coding/FWL_Theorem.ipynb) | 09/13/2023 |
-| Sum of Squares and $R^2$ in Regression Analyses | [PDF](./PDFs/Sum_of_Squares.pdf) | <a href="./Coding/Sum_of_Squares.do"> Stata </a> | 09/23/2023 |
+| Sum of Squares and $R^2$ in Regression Analyses | [PDF](./PDFs/Sum_of_Squares.pdf) | [Stata](./Coding/Sum_of_Squares.do) | 09/23/2023 |
