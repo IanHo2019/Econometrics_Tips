@@ -3,7 +3,7 @@ I first studied Econometrics in the fall of 2020 at [UW-Madison](https://econ.wi
 
 No matter whether or not Econometrics is worth learning, I sincerely thank Professor [Xiaoxia Shi](https://users.ssc.wisc.edu/~xshi/) and Professor [Jack Porter](https://users.ssc.wisc.edu/~jrporter/) (who built up my initial understanding of Econometrics) as well as Professor [Le Wang](https://www.lewangecon.com/) (who refreshed my understanding of probability distribution).
 
-**Note:** Due to a possible GitHub bug (discussed [here](https://github.com/orgs/community/discussions/60984) and [there](https://github.com/orgs/community/discussions/60861)), the following internal links may not work in the surfaced version of readme.md file, but they work well after you explicitly enter the readme.md file by clicking it in the repository.
+**Note:** Due to a possible GitHub bug (discussed [here](https://github.com/orgs/community/discussions/60984) and [there](https://github.com/orgs/community/discussions/60861)), the following internal links may not work in the surfaced version of README.md file, but they work well after you explicitly enter the README.md file by clicking it in the repository.
 
 ---
 
