@@ -3,6 +3,7 @@ This file shows how to calculate sum of squares and R squared for a regression m
 Author: Ian Ho
 Date: Sep 25, 2023
 Python Version: 3.11.4
+Data Source: https://doi.org/10.5014/ajot.44.6.493
 """
 
 #%% Load Packages
